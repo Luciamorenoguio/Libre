@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(11, 160, 11);
+}
+historia.html{
+    background-color: rgb(11, 160, 11);
+    relleno-izquierda: 1em;
+    font-family: Georgia, "Times New Roman",
+}
+lengua.html{
+    background-color: rgb(43, 43, 219);
+    relleno-izquierda: 1em;
+    font-family: Georgia, "Times New Roman",
+ Tiempos, serif;
+    color: negro;
+    tamaño de fuente: 14;
+}
+filosofia.html{
+    background-color:rgb(194, 45, 194);
+    font-family: Georgia, "Times New Roman",
+}
+h3 {
+    background-color: black
+}
+
+h2 {
+	background-color: rgb(145, 48, 48)
+
+}
+button {
+    background-color: orange
+}
